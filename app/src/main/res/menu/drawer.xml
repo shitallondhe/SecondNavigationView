@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/send_sms"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title="Send SMS" />
+
+
+        <item
+            android:id="@+id/make_call_from_app"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title="Make Call From App" />
+
+        <item
+            android:id="@+id/gps_location"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title="GPS Location" />
+
+
+        <item
+            android:id="@+id/telephony_manger"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Telephony Manager Demo" />
+
+
+        <item
+            android:id="@+id/wifi_demo"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Wifi Demo" />
+
+
+        <item
+            android:id="@+id/video_playing"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Video Playing" />
+
+
+
+
+        <item
+            android:id="@+id/bluetooth_demo"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Bluetooth Demo" />
+
+
+        <item
+            android:id="@+id/camera_demo"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Camera Demo" />
+
+
+
+
+        <item
+            android:id="@+id/external_storage"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" External Storage Demo" />
+
+
+        <item
+            android:id="@+id/internal_storage"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Internal Storage Demo" />
+
+
+
+        <item
+            android:id="@+id/cache_demo"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Cache Demo" />
+
+
+        <item
+            android:id="@+id/shared_preference_demo"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title=" Shared Preference Demo" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </group>
+</menu>
